@@ -7,6 +7,3 @@
 
 <p>http://your-domain.com/qr-code?link=https://example.com</p>
 
-<h2>OR</h2>
-
-<b> http://localhost:8000/qr-code/?link=[https://maps.app.goo.gl/JcpxP9ouD1ZiiuZ38?g_st=ic](https://www.facebook.com/  </b>
